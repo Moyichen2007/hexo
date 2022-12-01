@@ -550,10 +550,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
+ /* .bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-}
+}*/ 
 
 .bg-cover:before,
 .bg-cover:after {
@@ -2293,4 +2293,8 @@ body.DarkMode .theme-btn:hover {
     font-family:'Font Awesome 5 Free';
     font-weight: 900;
     color: #d9534f;
+}
+/* 添加背景像素纹*/
+.bg-cover::before {
+    background-image: url('https://codecheng-1305009997.cos.ap-chengdu.myqcloud.com/img/20210504115955.png');/*这里使用我的腾讯云cos图床，你可以下载下来保存*/
 }

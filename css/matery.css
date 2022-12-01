@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #f3609d 0%, #f3609d 100%);
 }
 
 .text-color {
@@ -2297,4 +2297,19 @@ body.DarkMode .theme-btn:hover {
 /* 添加背景像素纹*/
 .bg-cover::before {
     background-image: url('https://codecheng-1305009997.cos.ap-chengdu.myqcloud.com/img/20210504115955.png');/*这里使用我的腾讯云cos图床，你可以下载下来保存*/
+}
+
+/* 添加滚动条 */
+::-webkit-scrollbar-thumb {
+    background-color: #d83aa6;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.4) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.4) 50%,rgba(255,255,255,.4) 75%,transparent 75%,transparent);
+    border-radius: 3em;
+}
+::-webkit-scrollbar-track {
+    background-color: rgb(200, 81, 172);
+    border-radius: 3em;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    height: 15px;
 }

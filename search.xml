@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Exam</title>
+      <link href="/2023/07/19/exam/"/>
+      <url>/2023/07/19/exam/</url>
+      
+        <content type="html"><![CDATA[<p>考试成绩记录与分析<br>( password == 生日日期 )</p><span id="more"></span><h2 id="高一下："><a href="#高一下：" class="headerlink" title="高一下："></a>高一下：</h2><table><thead><tr><th align="left"></th><th align="center">开学区统考</th><th align="center">期中考</th><th align="center">联考</th><th align="right">期末考</th></tr></thead><tbody><tr><td align="left">语文</td><td align="center">89 / 150</td><td align="center">104/150</td><td align="center">114/150</td><td align="right">107/150</td></tr><tr><td align="left">数学</td><td align="center">76 / 150</td><td align="center">93/150</td><td align="center">97/150</td><td align="right">89/150</td></tr><tr><td align="left">英语</td><td align="center">97.5/130</td><td align="center">110/130</td><td align="center">110.62/150</td><td align="right">92.5/130</td></tr><tr><td align="left">物理</td><td align="center">65 / 100</td><td align="center">47/100</td><td align="center">56/100</td><td align="right">62/100</td></tr><tr><td align="left">化学</td><td align="center">73 / 100</td><td align="center">70/100</td><td align="center">64/100</td><td align="right">77/100</td></tr><tr><td align="left">政治</td><td align="center">66 / 100</td><td align="center">72/100</td><td align="center">89/100</td><td align="right">75/100</td></tr><tr><td align="left">“3+1”</td><td align="center">327.5 / 530</td><td align="center">354/530</td><td align="center">377.62/550</td><td align="right">350.5/530</td></tr><tr><td align="left">总分</td><td align="center">466.5 / 730</td><td align="center">496/730</td><td align="center">530.62/750</td><td align="right">502.5/730</td></tr></tbody></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法</title>
       <link href="/2023/01/18/markdown/"/>
       <url>/2023/01/18/markdown/</url>
